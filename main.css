@@ -1,8 +1,11 @@
 h1 {
-  font-size: 18px;
+  font-size: 20px;
+  color: #295f77;
 }
 p {
-  text-align: right;
-  width: 250px;
-  line-height: 2;
+  color: #295f77;
+  font-size: 14px;
+  text-align: left;
+  width: 540px;
+  line-height: 1.3;
 }
