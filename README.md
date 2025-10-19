@@ -1,2 +1,2 @@
-# lifeofafuturegenius
+# lifeofafuturegenius.io
 
